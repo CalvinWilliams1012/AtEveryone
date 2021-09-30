@@ -1,5 +1,5 @@
 # At Everyone GroupMe Bot
-
+## Abandoned, not sure if it still works 4+ years later :)
 
 This is my personal implementation of a simple Java GroupMe Bot.
 This is a [Google App Engine](https://cloud.google.com/appengine/) project with [Maven](https://maven.apache.org/) and [GSON](https://github.com/google/gson).
